@@ -13,7 +13,7 @@ I'm a developer / pentester
 
 
 <a href="https://github.com/Pleberie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pleberie&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Pleberie's Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pleberie&show_icons=true&include_all_commits=true&show_icons=true&title_color=5897fc&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Pleberie's Stats" />
 </a>
 <br><br>
 <a href="https://github.com/Pleberie?tab=repositories">
