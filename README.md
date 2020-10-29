@@ -1,4 +1,4 @@
-# Pleberie
+# Tyler-Admin
 I'm a developer / pentester
 
 
@@ -12,12 +12,12 @@ I'm a developer / pentester
 
 
 
-<a href="https://github.com/Pleberie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pleberie&show_icons=true&include_all_commits=true&show_icons=true&title_color=5897fc&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Pleberie's Stats" />
+<a href="https://github.com/Tyler-Admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tyler-Admin&show_icons=true&include_all_commits=true&show_icons=true&title_color=5897fc&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Tyler's Stats" />
 </a>
 <br><br>
 <a href="https://github.com/Pleberie?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pleberie&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt='My most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyler-Admin&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt='My most used languages" />
 </a>
 <br>
 <br>
